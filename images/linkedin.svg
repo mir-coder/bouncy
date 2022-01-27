@@ -1,0 +1,16 @@
+<svg id="linkedin" xmlns="http://www.w3.org/2000/svg" width="26" height="26" viewBox="0 0 26 26">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #0e76a8;
+      }
+
+      .cls-2 {
+        fill: #fff;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <circle id="base" class="cls-1" cx="13" cy="13" r="12.813"/>
+  <path id="in" class="cls-2" d="M7.412,17.787h2.4V9.8h-2.4v7.99ZM16.75,9.522a3.6,3.6,0,0,0-2.942,1.363V9.773H11.4v8.015h2.406V13.453A1.9,1.9,0,0,1,15.7,11.643c1.051,0,1.31.894,1.31,1.788v4.356h2.4V13.253C19.406,10.1,17.914,9.522,16.75,9.522ZM8.6,6.6A1.2,1.2,0,1,1,7.4,7.8,1.2,1.2,0,0,1,8.6,6.6Z"/>
+</svg>

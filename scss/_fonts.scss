@@ -1,0 +1,40 @@
+@font-face {
+    font-family: 'Open Sans', sans-serif;
+    src: url('../fonts/OpenSans-Regular.woff2') format('woff2'),
+         url('../fonts/OpenSans-Regular.woff') format('woff');
+    font-style: normal;
+    font-weight: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Open Sans', sans-serif;
+    src: url('../fonts/OpenSans-Bold.woff2') format('woff2'),
+         url('../fonts/OpenSans-Bold.woff') format('woff');
+    font-style: normal;
+    font-weight: bold;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Roboto', sans-serif;
+    src: url('../fonts/Roboto-Light.woff2') format('woff2'),
+         url('../fonts/Roboto-Light.woff') format('woff');
+    font-style: normal;
+    font-weight: lighter;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Source Sans Pro', sans-serif;
+    src: url('../fonts/SourceSansPro-Light.woff2') format('woff2'),
+         url('../fonts/SourceSansPro-Light.woff') format('woff');
+    font-style: normal;
+    font-weight: lighter;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Source Sans Pro', sans-serif;
+    src: url('../fonts/SourceSansPro-LightItalic.woff2') format('woff2'),
+         url('../fonts/SourceSansPro-LightItalic.woff') format('woff');
+    font-style: italic;
+    font-weight: lighter;
+    font-display: swap;
+}
